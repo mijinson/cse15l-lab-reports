@@ -1,5 +1,5 @@
 # CSE15L Lab Report Collection
-![image](screenshot.png)
+![image](image.png)
 ## Spring 20222
 
 *  [Week 2 Lab Report 1](https://mijinson.github.io/cse15l-lab-reports/new.html): Remote Acess Tutorial
