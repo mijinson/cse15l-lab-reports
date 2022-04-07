@@ -1,9 +1,8 @@
-# Thursday 8:00am
+# Thursday April 7th
 
- ## *April 7th*
+## **scheduele**
 
-**GOOD MORNING! :)**
-
-tired :(
+* 8am-10am: CSE15L
+* 11am-12:20pm: CSE20
 
 
