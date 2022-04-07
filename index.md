@@ -1,8 +1,5 @@
-# Thursday April 7th
+# CSE15L Lab Report Collection
+## Spring 20222
 
-## **scheduele**
-
-* 8am-10am: CSE15L
-* 11am-12:20pm: CSE20
-
+*  [Week 2 Lab Report 1](https://mijinson.github.io/cse15l-lab-reports/new.html): Remote Acess Tutorial
 
