@@ -6,7 +6,7 @@
 
 Click the link to the website and download VSCode IDE. the correct version for the operating system that will be used. [link](https://code.visualstudio.com/Download)
 
-![image](first.png)
+![image](image1.png)
 
 Once VSCode is downloaded open/create a new folder or create a new file by clicking on what is in the black box below
 
