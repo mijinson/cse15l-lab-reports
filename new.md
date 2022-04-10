@@ -6,11 +6,11 @@
 
 Click the link to the website and download VSCode IDE. the correct version for the operating system that will be used. [link](https://code.visualstudio.com/Download)
 
-![image](image1.png)
+![image](first.png)
 
 Once VSCode is downloaded open/create a new folder or create a new file by clicking on what is in the black box below
 
-![image](image2.png)
+![image](second.png)
 
 For windows there is an additonal preparation step: downloading [OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse) in order for remote access to a computer.
 
