@@ -1,12 +1,12 @@
 # Remote Access Tutorial
 
-## How to use a IDE to connect to a remote computer
+## How to use an IDE to connect to a remote computer
 
 * Getting started
 
 Click the link to the website and download VSCode IDE. the correct version for the operating system that will be used. https://code.visualstudio.com/Download
 
-![image](image1.png)
+![image](image.png)
 
 Once VSCode is downloaded open/create a new folder or create a new file by clicking on what is in the black box below
 
