@@ -51,6 +51,8 @@ Here is a mini guide to some useful commands:
 
 `cd` or `cd ~` leads to the home directory
 
+`pwd` prints the current working directory 
+
 ![image](4.png)
 
 `ls -lat` lists long files and hidden files existing in increasing time order `ls -l`, `ls -a`, `ls -t` commands perform the same task just one step at a time
