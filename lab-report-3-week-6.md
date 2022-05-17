@@ -81,11 +81,23 @@ Additionally, here is the link to the resulting commit.
 
 ## Copy whole directories with scp -r
 
-### efficent way to copy whole directories
+### one efficent way to copy whole directories and run tests on ieng6
 
 To copy whole directories using scp recursively call the follwing line of code in the local machine:
 
 `scp -r *.java *.md lib/ ucsd.edu:~Markdown-Parse`
+
+What the code does above is copy the entire directory ~Markdown-Parse from the local machine and copies it over to the ieng6 server. This allows acess to all files in the directory.
+
+A semicolon `;` can be used to run all commands in one line (copying directory, logging into server, running junit test on server).
+
+Heres what running junit tests logged into server looks like.
+
+![image](junit.png)
+
+Heres what running all commands in one line looks like.
+
+![image](allcommand.png)
 
 
 
