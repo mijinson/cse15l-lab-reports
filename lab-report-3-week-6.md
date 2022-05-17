@@ -64,12 +64,12 @@ Running git commands:
 
 NOTE: all of this is done logged on the ieng6 server
 
-* `cd` into the repository i.e. ~Markdown_Parse
-* Pick a file to edit i.e. gitTest.txt. file is initally empty
-* To add content into the file use `cat >gitTest.txt`. This should allow for space to type content in. when finished use control D
-* Use `git add gitTest.txt` to stage commit then `git status` to check that file is ready to commit
-* Use `git commit -m "commit message"` to commit changes
-* To push the changes to the repository on github use `git push origin main`
+1) `cd` into the repository i.e. ~Markdown-Parse
+2) Pick a file to edit i.e. gitTest.txt. file is initally empty
+3) To add content into the file use `cat >gitTest.txt`. This should allow for space to type content in. when finished use control D
+4) Use `git add gitTest.txt` to stage commit then `git status` to check that file is ready to commit
+5) Use `git commit -m "commit message"` to commit changes
+6) To push the changes to the repository on github use `git push origin main`
 
 Refer to image below for visual representation of process.
 Additionally, here is the link to the resulting commit.
