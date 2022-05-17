@@ -86,6 +86,9 @@ Additionally, here is the link to the resulting commit.
 To copy whole directories using scp recursively call the follwing line of code in the local machine:
 
 `scp -r *.java *.md lib/ ucsd.edu:~Markdown-Parse`
+The code above runs only specified types of files (all needed files for junit running are present) and excludes files like .git and etc. if want to copy ALL files use code below
+`scp -r . ucsd:~/~Markdown-Parse` 
+
 
 Here is what it should look like:
 
