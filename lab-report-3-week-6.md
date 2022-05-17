@@ -47,7 +47,7 @@ Additonally, using `cat >config` add the following into the file:
         UseKeychain yes
         IdentityFile ~/.ssh/id_ed25519
 
-Here are screenshots of where the proper public and private keys are stored.
+Here are screenshots of where the proper public and private keys are stored. both stored in .ssh directory. only contents of public key is shown.
 
 ![image](publickey.png)
 
@@ -86,6 +86,10 @@ Additionally, here is the link to the resulting commit.
 To copy whole directories using scp recursively call the follwing line of code in the local machine:
 
 `scp -r *.java *.md lib/ ucsd.edu:~Markdown-Parse`
+
+Here is what it should look like:
+
+![image](scpr.png)
 
 What the code does above is copy the entire directory ~Markdown-Parse from the local machine and copies it over to the ieng6 server. This allows acess to all files in the directory.
 
