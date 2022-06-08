@@ -9,4 +9,6 @@
 
 ### [Week 6 Lab Report 3](https://mijinson.github.io/cse15l-lab-reports/lab-report-3-week-6.html): Working on ieng6 Server
 
-## [Week 8 Lab Report 4](https://mijinson.github.io/cse15l-lab-reports/lab-report-4-week-8.html): Markdown-Parser Work
+### [Week 8 Lab Report 4](https://mijinson.github.io/cse15l-lab-reports/lab-report-4-week-8.html): Markdown-Parser Work
+
+### [Week 10 Lab Report 5](https://mijinson.github.io/cse15l-lab-reports/lab-report-5-week-10.html) Comparing MarkdownParse Tests
